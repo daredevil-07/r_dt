@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_violet.mk
+    $(LOCAL_DIR)/legion_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_violet-userdebug \
-    potato_violet-eng
+    legion_violet-userdebug \
+    legion_violet-eng
